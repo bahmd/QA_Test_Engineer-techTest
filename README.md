@@ -10,6 +10,8 @@ The tasks are:
 2. Identify the main test scenarios, including both positive and negative cases.
 3. Highlight any potential risks or dependencies (e.g., login required, unstable APIs, captcha validation, etc.).
 
+**[OUTCOME](https://github.com/bahmd/QA_Test_Engineer-techTest/wiki/1.-System-Selection-and-Understanding)**
+
 ## 2. Manual Test Design and Execution
 **Task:** Create a spreadsheet or document containing five test cases for the selected flow. Each test case should include the following fields:
 | Field | Description |
@@ -22,6 +24,8 @@ The tasks are:
 | **Status** | Passed / Failed |
 | **Evidence** | Screenshots, logs, or observations (if applicable) |
 
+**[OUTCOME](https://github.com/bahmd/QA_Test_Engineer-techTest/wiki/2.-Manual-Test-Design-and-Execution)**
+
 ## 3. API and Data Validation
 **Task:** Select a relevant API request from the same functional flow (e.g., a POST for creation, a GET for listing, etc.).
 Use Postman (or another API testing platform) to:
@@ -29,12 +33,15 @@ Use Postman (or another API testing platform) to:
 2. Validate the response, including the status code and key response fields.
 3. Provide an SQL query that would validate the corresponding data in the database (it can be pseudo-SQL, purely conceptual).
 
+**[OUTCOME](https://github.com/bahmd/QA_Test_Engineer-techTest/wiki/3.-API-and-data-validation)**
+
 ## 4. Test Automation
 Automate one of the test scenarios defined in Section 2.<br>
 Tool: Playwright<br>
 Deliverable: Source code hosted on GitHub, including a README file explaining setup and execution steps
 
-**Outcome:** **[SEE REPOSITORY HERE](https://github.com/bahmd/Playwright_automation)**
+**[OUTCOME](https://github.com/bahmd/QA_Test_Engineer-techTest/wiki/4.-Scenario-Automation)**
+**OR:** **[SEE CODE REPOSITORY HERE](https://github.com/bahmd/Playwright_automation)**
 
 ## 5. Communication and Ownership
 Write a brief final report (maximum one page) including:
@@ -42,3 +49,5 @@ Write a brief final report (maximum one page) including:
 2. Identified or potential risks
 3. Recommendation: Go or No-Go for release
 4. Clear and objective justification for the recommendation
+
+**[OUTCOME](https://github.com/bahmd/QA_Test_Engineer-techTest/wiki/5.-Communication-and-Ownership)**
